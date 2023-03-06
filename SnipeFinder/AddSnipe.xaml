@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SnipeFinder.AddSnipe"
+             Title="AddSnipe">
+    <VerticalStackLayout>
+        <Label 
+            Text="You can add Snipes on this page!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Button
+            Text="Add Snipe"
+            HorizontalOptions="Center"/>
+    </VerticalStackLayout>
+</ContentPage>
